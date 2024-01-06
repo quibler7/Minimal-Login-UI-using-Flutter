@@ -1,0 +1,1 @@
+ /Users/chaitanyjadhav/quibler7/minimal\ login\ UI/.dart_tool/flutter_build/1e50d792e21b3a9cc5a1957c64402d90/native_assets.yaml: 
