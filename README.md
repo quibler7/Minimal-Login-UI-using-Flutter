@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Minimal-Login-UI-using-Flutter
-Created a Minimal looking 🌟Login UI page📱 using Flutter and Dart which has both Light 💡 and Dark mode.
+
 =======
 # minimallogin
 
