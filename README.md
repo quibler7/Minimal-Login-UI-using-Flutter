@@ -14,8 +14,8 @@ Run the following commands from your terminal:
 
 ## Screenshots 
 
-<img src = "lib/images/light1.png" height = 1179 width =2556 >
-<img src = "lib/images/dark1.png" height = 1179 width =2556 >
-<img src = "lib/images/light2.png" height = 1179 width =2556 >
-<img src = "lib/images/dark2.png" height = 1179 width =2556 >
+<img src = "lib/images/light1.png" height = 426 width = 196.5 >
+<img src = "lib/images/dark1.png" height = 426 width = 196.5 >
+<img src = "lib/images/light2.png" height = 426 width = 196.5 >
+<img src = "lib/images/dark2.png" height = 426 width = 196.5 >
 
