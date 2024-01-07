@@ -4,8 +4,6 @@
 Created a Minimal looking 🌟Login UI page📱 using Flutter and Dart which has both Light 💡 and Dark mode.
 
 
-
-
 ## Setup
 
 Run the following commands from your terminal:
@@ -16,6 +14,8 @@ Run the following commands from your terminal:
 
 ## Screenshots 
 
-<img src = "lib/images/light1.png" height = 500 width =250 >
-<img src = "lib/images/light2.png" height = 500 width =250 >
+<img src = "lib/images/light1.png" height = 1179 width =2556 >
+<img src = "lib/images/dark1.png" height = 1179 width =2556 >
+<img src = "lib/images/light2.png" height = 1179 width =2556 >
+<img src = "lib/images/dark2.png" height = 1179 width =2556 >
 
